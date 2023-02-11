@@ -44,5 +44,7 @@ Mi pasion por el desarrollo web me convierten en una persona idonea para formar 
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="25" /></a>  
 </div>  
 
-
+### CONTACT  
+jonasdavid2009@hotmail.com
+https://www.linkedin.com/in/jonas-fern%C3%A1ndez-29688824a/
 
