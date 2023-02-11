@@ -46,5 +46,6 @@ Mi pasion por el desarrollo web me convierten en una persona idonea para formar 
 
 ### CONTACT  
 jonasdavid2009@hotmail.com
+<br/>
 https://www.linkedin.com/in/jonas-fern%C3%A1ndez-29688824a/
 
