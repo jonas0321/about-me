@@ -23,17 +23,7 @@ Mi pasion por el desarrollo web me convierten en una persona idonea para formar 
   
   
 
-<br/>  
 
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
